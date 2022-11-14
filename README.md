@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tomals0n
-- 👀 I’m interested in backend.
+- 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning python.
+- 🎈 Basic knowledge of HTML/CSS.
 
 
 <!---

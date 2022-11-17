@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python.
 - 🎈 Basic knowledge of HTML/CSS.
 
+https://www.codewars.com/users/tomals0n/badges/large
 
 <!---
 tomals0n/tomals0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomals0n
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and php.
 - 🎈 Basic knowledge of HTML/CSS.
 
 <!---

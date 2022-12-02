@@ -1,6 +1,6 @@
 # Hi, I’m tomals0n
 
-- 📑 I’m intrested in backend.
+- 📑 I’m intrested in full stack development.
 - 🌱 I’m currently learning python and php.
 
 ## Skills - Frontend

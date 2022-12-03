@@ -20,7 +20,7 @@
 
 - 📑 Backend
 - - https://github.com/tomals0n/rpg_txtgame | "Game" to learn python skills
-- - https://districtmta.pl/wyszukiwarka/uid_find.php | Search user in districtMTA database -> used HTML+CSS+PHP+MySQL
+- - https://districtmta.pl/wyszukiwarka/uid_find.php | Search user/car in districtMTA database -> used HTML+CSS+PHP+MySQL
 
 <!---
 tomals0n/tomals0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

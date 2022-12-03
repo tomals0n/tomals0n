@@ -14,8 +14,8 @@
 ## Little projects
 
 - 📑 Frontend
-- - https://tomals0n.github.io/learning/phonefixing/ | Site to learn something about HTML and CSS
-- - https://tomals0n.github.io/learning/portfolio-template/ | Like ^up
+- - https://tomals0n.github.io/html_css/phonefixing/ | Site to learn something about HTML and CSS
+- - https://tomals0n.github.io/html_css/portfolio-template/ | Like ^up
 
 
 - 📑 Backend

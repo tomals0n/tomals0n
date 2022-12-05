@@ -22,7 +22,10 @@
 - - https://github.com/tomals0n/rpg_txtgame | "Game" to learn python skills
 - - https://districtmta.pl/wyszukiwarka/uid_find.php | Search user/car in districtMTA database -> used HTML+CSS+PHP+MySQL
 
-![](https://komarev.com/ghpvc/?tomals0n&color=green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomals0n&show_icons=true&theme=radical)
+
+
+
 
 
 <!---

@@ -2,7 +2,7 @@
 
 - 📑 I’m intrested in full stack development.
 - 🌱 I’m currently learning python and php.
-- 📫 Contact me: **tomals0n#2479** - *DISCORD*
+- 📫 Contact me: **tomals0n#2479** - *DISCORD* | tomals0n.contact@gmail.com - *MAIL*
 ## Skills
 <img src='https://img.icons8.com/color/html-5.png'/> <img src='https://img.icons8.com/color/css3.png' /> <img src='https://img.icons8.com/color/python.png'/> <img src='https://i.imgur.com/PUqXk1O.png' width=60 height=48/> <img src='https://img.icons8.com/color/mysql-logo.png'/>
 

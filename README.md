@@ -9,6 +9,7 @@
 ## Little projects
 <img src='https://img.icons8.com/color/html-5.png' width=24 height=24/> <img src='https://img.icons8.com/color/css3.png' width=24 height=24/>  <img src='https://i.imgur.com/PUqXk1O.png' width=32 height=24/> <img src='https://img.icons8.com/color/mysql-logo.png' width=24 height=24/> <a href='https://districtmta.pl/wyszukiwarka/uid_find.php'>Search users/cars in districtMTA database </a> <br/>
 <img src='https://img.icons8.com/color/python.png' width=24 height=24/> <a href='https://github.com/tomals0n/rpg_txtgame'>RPG Textgame in python</a>
+<img src='https://img.icons8.com/color/html-5.png' width=24 height=24/> <img src='https://img.icons8.com/color/css3.png' width=24 height=24/>  <img src='https://i.imgur.com/PUqXk1O.png' width=32 height=24/> <img src='https://img.icons8.com/color/mysql-logo.png' width=24 height=24/> <a href='https://github.com/tomals0n/to_do_list'>TO-DO LIST</a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomals0n&show_icons=true&theme=radical)

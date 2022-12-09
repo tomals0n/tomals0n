@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python and php.
 - 📫 Contact me: **tomals0n#2479** on Discord or tomals0n.contact@gmail.com 
 ## Skills
-<img src='https://img.icons8.com/color/html-5.png'/> <img src='https://img.icons8.com/color/css3.png' /> <img src='https://img.icons8.com/color/python.png'/> <img src='https://i.imgur.com/PUqXk1O.png' width=60 height=48/> <img src='https://img.icons8.com/color/mysql-logo.png'/>
+<img src='https://img.icons8.com/color/html-5.png' height=48/> <img src='https://img.icons8.com/color/css3.png' /> <img src='https://img.icons8.com/color/python.png'/> <img src='https://i.imgur.com/PUqXk1O.png' width=60 height=48/> <img src='https://img.icons8.com/color/mysql-logo.png'/>
 
 ## Little projects
 <img src='https://img.icons8.com/color/html-5.png' width=24 height=24/> <img src='https://img.icons8.com/color/css3.png' width=24 height=24/>  <img src='https://i.imgur.com/PUqXk1O.png' width=32 height=24/> <img src='https://img.icons8.com/color/mysql-logo.png' width=24 height=24/> <a href='https://districtmta.pl/wyszukiwarka/uid_find.php'>Search users/cars in districtMTA database </a> <br/>

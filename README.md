@@ -13,7 +13,7 @@
 <img src='https://img.icons8.com/color/python.png' width=24 height=24/> <a href='https://github.com/tomals0n/rpg_txtgame'>RPG Textgame in python</a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomals0n&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomals0n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

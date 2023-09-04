@@ -1,7 +1,6 @@
 # Hi, I’m tomals0n
 
 - 📑 I’m intrested in IT/ICT, IT support etc and programming.
-- 🌱 I’m currently learning python and php.
 - 📫 Contact me: **tomals0n#2479** on Discord or tomals0n.contact@gmail.com
 - 💼 Currently mastering: Python
 ## Skills

@@ -1,9 +1,9 @@
 # Hi, I’m tomals0n
 
-- 📑 I’m intrested in full stack development.
+- 📑 I’m intrested in IT/ICT, IT support etc and programming.
 - 🌱 I’m currently learning python and php.
 - 📫 Contact me: **tomals0n#2479** on Discord or tomals0n.contact@gmail.com
-- 💼 Currently working on: Real-time chat application 
+- 💼 Currently mastering: Python 
 ## Skills
 <img src='https://img.icons8.com/color/html-5.png' height=48/> <img src='https://img.icons8.com/color/css3.png' /> <img src='https://img.icons8.com/color/python.png'/> <img src='https://i.imgur.com/PUqXk1O.png' width=60 height=48/> <img src='https://img.icons8.com/color/mysql-logo.png'/>
 

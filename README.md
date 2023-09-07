@@ -2,7 +2,7 @@
 
 - 📑 I’m intrested in IT/ICT, IT support etc and programming.
 - 📫 Contact me: **tomals0n#2479** on Discord or tomals0n.contact@gmail.com
-- 💼 Currently mastering: Python
+- 💼 Currently mastering: Python, PHP, HTML, CSS
 ## Skills
 <img src='https://img.icons8.com/color/html-5.png' /> <img src='https://img.icons8.com/color/css3.png' /> <img src='https://img.icons8.com/color/python.png'/> <img src='https://i.imgur.com/PUqXk1O.png' width=60 height=48/> <img src='https://img.icons8.com/color/mysql-logo.png'/>
 
